@@ -9,8 +9,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-![python-octocat](https://user-images.githubusercontent.com/20131917/222073298-afffdf96-eb57-4122-bace-f73901028298.png)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20131917/222073298-afffdf96-eb57-4122-bace-f73901028298.png" width="350">
 </p>
