@@ -12,7 +12,6 @@
 
 [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/kidparce)
 
-[![Twitter Badge](https://img.shields.io/badge/-@kidparce?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kidparce)](https://twitter.com/kidparce) 
 [![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-diegogallegof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogallegof/)](https://www.linkedin.com/in/diegogallegof/) 
