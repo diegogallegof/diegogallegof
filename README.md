@@ -12,9 +12,10 @@
 <div align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </div>
-<p align="center">
+<div align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
+</div>
+<p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </p><p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
