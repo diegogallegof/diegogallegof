@@ -10,7 +10,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="350">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </p>
 
 <p align="center">
