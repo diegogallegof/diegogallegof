@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/kidparce)
 <!--
 **diegogallegof/diegogallegof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
