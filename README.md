@@ -9,30 +9,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-<div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</div><div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</div>
+
 <p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</p><p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </p>
 
