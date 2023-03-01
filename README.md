@@ -11,8 +11,7 @@
 
 <div align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-</div>
-<div align="center">
+</div><div align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </div>
 <p align="center">
