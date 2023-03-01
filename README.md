@@ -9,7 +9,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-![image](https://user-images.githubusercontent.com/20131917/222072978-f70b0f5f-e8a2-4abe-abb6-409c105a8baa.png)
+![python-octocat](https://user-images.githubusercontent.com/20131917/222073298-afffdf96-eb57-4122-bace-f73901028298.png)
+
 
 <!-- [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/kidparce)-->
 
