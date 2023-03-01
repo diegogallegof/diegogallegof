@@ -11,6 +11,11 @@
 
 ![python-octocat](https://user-images.githubusercontent.com/20131917/222073298-afffdf96-eb57-4122-bace-f73901028298.png)
 
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://user-images.githubusercontent.com/20131917/222073298-afffdf96-eb57-4122-bace-f73901028298.png)" width="350" alt="accessibility text">
+</p>
+
 
 <!-- [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/kidparce)-->
 
