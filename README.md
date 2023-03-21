@@ -20,30 +20,42 @@
 </p>
 
 
-<!-- [![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/kidparce)-->
+ <!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegogallegof" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogallegof&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+
+
+**Expand to view**
+
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=diegogallegof&show_icons=true" />
+</details>
+<!--
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/diegogallegof/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diegogallegof&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+-->
+<!-- GitHub section: END -->
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogallegof&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<!-- THE END -->
+
 
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@kidparce-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kidparce)](https://twitter.com/kidparce) 
 [![Linkedin Badge](https://img.shields.io/badge/-diegogallegof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogallegof/)](https://www.linkedin.com/in/diegogallegof/) 
-<!-- [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
-<!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
-[![GitHub followers](https://img.shields.io/github/followers/diegogallegof?label=Follow&style=social)](https://github.com/diegogallegof/?tab=follow)
 
-
-
-<!--[![Twitter Badge](https://img.shields.io/twitter/follow/kidparce.svg?style=social&label=Follow)](https://twitter.com/kidparce)-->
-<!--
-**diegogallegof/diegogallegof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
