@@ -11,11 +11,13 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </p>
+
 <p align="center">
-  <img src"https://i.kym-cdn.com/photos/images/original/002/124/294/f0b.jpg">
+  <img src="https://i.kym-cdn.com/photos/images/original/002/124/294/f0b.jpg">
  </p>
 
 
