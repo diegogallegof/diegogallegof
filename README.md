@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/002/124/294/f0b.jpg">
+  <img src="https://github.com/iamazadi/Porta.jl/blob/master/gallery/flower.gif">
  </p>
 
 
