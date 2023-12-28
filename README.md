@@ -38,9 +38,9 @@ Hello
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogallegof&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
-
+<!--
 ![WhatsApp Image 2023-06-01 at 23 56 59](https://github.com/diegogallegof/diegogallegof/assets/20131917/e3a98386-cae1-43d3-9aff-ad19f1e7cbb6)
-
+-->
 
 **Expand to view**
 
