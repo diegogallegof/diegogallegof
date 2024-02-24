@@ -15,7 +15,7 @@ Hello
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
 </p>
-<p aling = "center"> hopf fibration</p>
+<p aling = "center"> hopf fibration.</p>
 <a href = https://en.wikipedia.org/wiki/Hopf_fibration>wikipedia definition</a>
 <p align="center">
  
