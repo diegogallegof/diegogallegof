@@ -1,6 +1,6 @@
 # Diego Gallego  
 
-AI Product Manager | Engineer by Training | Applied AI & Data Science  
+AI Product Manager | Engineer by Training | Applied AI & Data Science for Growth & Subscriptions
 
 Hi 👋  
 I’m a Senior Product Manager with an engineering background, specialized in
