@@ -22,7 +22,7 @@ Science and AI projects, explicitly connected to real product challenges.
 
 ## 🎯 What this GitHub is about
 
-This is not a collection of random tutorials or isolated scripts.
+This is not a collection of tutorials or toy notebooks.
 
 This GitHub documents how I apply Data Science and AI to **subscription and
 streaming product challenges**, informed by years of real-world experience
