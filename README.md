@@ -94,3 +94,7 @@ Each project is documented from a **product-first perspective**.
 
 - GitHub: https://github.com/diegogallegof  
 - LinkedIn: https://www.linkedin.com/in/diegogallegof/
+
+---
+> This portfolio evolves in public as I build, learn, and validate ideas through real product problems.
+
