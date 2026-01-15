@@ -2,6 +2,9 @@
 
 AI Product Manager | Engineer by Training | Applied AI & Data Science for Growth & Subscriptions
 
+![Profile views](https://komarev.com/ghpvc/?username=diegoGallegoof&style=flat&color=grey)
+
+
 Hi 👋  
 I’m a Senior Product Manager with an engineering background, specialized in
 streaming and subscription-based products.
