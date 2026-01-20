@@ -1,82 +1,76 @@
 # Diego Gallego  
+**AI Product Manager | Engineer by Training | Applied AI & Data Science for Subscriptions & Growth**
 
-AI Product Manager | Engineer by Training | Applied AI & Data Science for Growth & Subscriptions
-
-![Profile views](https://komarev.com/ghpvc/?username=diegoGallegoof&style=flat&color=grey)
-
+![Profile views](https://komarev.com/ghpvc/?username=diegoGallegof&style=flat&color=grey)
 
 Hi 👋  
-I’m a Senior Product Manager with an engineering background, specialized in
-streaming and subscription-based products.
+I’m a product leader with an engineering background, focused on **AI-powered,
+data-informed decision-making** for **streaming and subscription products**.
 
 Earlier in my career, I worked as a **Technical Evangelist at Microsoft and Nokia**
 and spent several years as an **Android developer**, building and supporting
 mobile products across diverse ecosystems.
 
 Today, while I no longer work as a full-time developer, I stay deeply connected
-to technology and development. I focus on **AI-powered product capabilities**,
-applying Data Science and Machine Learning to real problems like conversion,
-retention, pricing, and lifecycle decision-making.
+to technology and development. I apply **Data Science and Machine Learning**
+as **product capabilities** to solve real problems like conversion,
+retention, pricing, and lifecycle optimization.
 
-This GitHub represents a **new chapter**: a curated portfolio of applied Data
-Science and AI projects, explicitly connected to real product challenges.
+This GitHub represents a **curated portfolio** of applied AI and Data Science
+projects grounded in **real product challenges**.
+
+---
+
+## ⭐ Featured AI Product Case Study
+
+📌 **User Conversion — Product-First Data Science Case Study**  
+An end-to-end analysis of subscription conversion in a streaming product:
+from problem framing and signal definition
+to modeling, insights, and product recommendations.
+
+👉 **Explore the full case:**  
+🔗 https://github.com/diegogallegof/<REPO_NAME>
 
 ---
 
 ## 🎯 What this GitHub is about
 
-This is not a collection of tutorials or toy notebooks.
+This is **not** a collection of tutorials or toy notebooks.
 
-This GitHub documents how I apply Data Science and AI to **subscription and
-streaming product challenges**, informed by years of real-world experience
-operating at scale.
+This GitHub documents how I apply AI and Data Science to **subscription and
+streaming product decisions**, informed by years of experience operating at scale.
 
-Here you’ll find:
+You’ll find:
 - 🧠 Subscription and monetization problems framed through data
-- 📊 Data Science projects grounded in real funnel metrics (conversion, retention, LTV)
-- 🤖 Applied machine learning for decision support
-- 🧪 Experiments, models, and trade-offs — not just outputs
-- 🧠 Product thinking over data: assumptions, risks, and limitations
+- 📊 Behavioral funnels, lifecycle signals, and LTV-oriented thinking
+- 🤖 Interpretable models used as decision-support tools
+- 🧪 Explicit trade-offs, assumptions, and limitations
+- 🧠 Product reasoning over raw model performance
 
-Some earlier repositories reflect my learning journey and technical foundations.
-New projects reflect my current focus on **AI Product Management**.
-
-Projects prioritize clarity, reasoning, and decision impact over production-level code.
-
----
-
-## 🚀 Portfolio Roadmap (In Progress)
-
-The following projects reflect how I approach AI and Data Science as
-**product capabilities within streaming and subscription ecosystems**:
-
-- **User Conversion Prediction**  
-  Estimating subscription conversion likelihood across paywalls and entry points.
-
-- **Customer & Subscriber Segmentation**  
-  Clustering users using behavioral and lifecycle signals (RFM-inspired).
-
-- **Churn Risk & Retention Analysis**  
-  Applying predictive signals to voluntary and involuntary churn scenarios.
-
-- **User Feedback & Sentiment Analysis**  
-  NLP applied to reviews and cancellation reasons to inform product decisions.
-
-- **Experimentation & Causal Thinking**  
-  Understanding correlation vs causation in pricing, offers, and paywall experiments.
-
-Each project is documented from a **product-first perspective**.
+Some earlier repositories reflect my technical foundations.
+Newer projects reflect my current focus on **AI Product Management**.
 
 ---
 
 ## 🧠 How I approach AI Products
 
-- AI is a **decision support tool**, not a magic solution.
-- Metrics and business context come **before** model choice.
-- Interpretability and robustness often matter more than raw accuracy.
-- Every model introduces assumptions, bias, and product risk.
-- My engineering and development background helps me bridge product, data,
-  and engineering teams effectively.
+- AI is a **decision-support system**, not a magic solution
+- Product context and metrics come **before** model choice
+- Interpretability often matters more than marginal accuracy gains
+- Every model introduces assumptions, bias, and product risk
+- My engineering background helps bridge product, data, and engineering teams
+
+---
+
+## 🚀 Portfolio roadmap (in progress)
+
+- **User Conversion & Monetization** — signal-driven conversion analysis  
+- **Customer & Subscriber Segmentation** — lifecycle and behavioral clustering  
+- **Churn & Retention Modeling** — voluntary and involuntary churn scenarios  
+- **User Feedback & Sentiment Analysis** — NLP for product insight  
+- **Experimentation & Causal Thinking** — beyond correlation
+
+Projects are documented from a **product-first perspective**.
 
 ---
 
@@ -84,7 +78,7 @@ Each project is documented from a **product-first perspective**.
 
 - Python (pandas, numpy, scikit-learn)
 - Jupyter Notebooks
-- Data visualization (matplotlib, seaborn)
+- Data visualization (matplotlib)
 - Git & GitHub
 - Markdown documentation
 
@@ -96,5 +90,4 @@ Each project is documented from a **product-first perspective**.
 - LinkedIn: https://www.linkedin.com/in/diegogallegof/
 
 ---
-> This portfolio evolves in public as I build, learn, and validate ideas through real product problems.
-
+> This portfolio evolves in public as I build, test, and refine ideas through real product problems.
