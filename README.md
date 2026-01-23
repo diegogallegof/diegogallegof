@@ -29,7 +29,7 @@ from problem framing and signal definition
 to modeling, insights, and product recommendations.
 
 👉 **Explore the full case:**  
-🔗 https://github.com/diegogallegof/<REPO_NAME>
+🔗 https://github.com/diegogallegof/ai-product-portfolio
 
 ---
 
