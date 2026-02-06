@@ -32,28 +32,33 @@ I operate at the intersection of:
 - **Engineering-aware decision making**
 
 My focus is on **applied AI** — turning data, signals, and models into
-**clear product decisions**, not just insights.
+**clear, actionable product decisions**, not just analytical insights.
 
 ---
 
 ## ⭐ Featured AI Product Case Study
 
-### 📌 User Conversion — Product-First Data Science Case Study
+### 📌 User Conversion — Product-First AI Case Study
 
-An end-to-end case study focused on **subscription conversion** in a streaming
-product.
+An end-to-end case study focused on **subscription conversion** in a
+streaming-style product.
 
 This project demonstrates how I:
-- Frame ambiguous business problems
-- Define meaningful behavioral signals
-- Use interpretable models as decision-support tools
-- Translate insights into concrete product recommendations
+
+- Frame ambiguous business problems as decision systems
+- Design realistic behavioral signals (not toy features)
+- Train interpretable baseline models aligned with product constraints
+- Explicitly document assumptions, risks, and trade-offs
+- Translate model outputs into product and experimentation decisions
 
 📂 Repository:  
 🔗 https://github.com/diegogallegof/ai-product-portfolio
 
 👉 Recommended starting point:  
 `01_user_conversion/`
+
+This case is intentionally built as a **system**, progressing from:
+**data generation → modeling → insights → recommendations → service exposure**.
 
 ---
 
@@ -62,19 +67,21 @@ This project demonstrates how I:
 This is **not** a collection of tutorials, toy notebooks, or Kaggle-style projects.
 
 This GitHub is a **case-based AI Product portfolio**, grounded in
-**real product constraints**, including:
+**real product constraints**, such as:
 
-- Limited experimentation capacity
-- Noisy behavioral data
+- Limited experimentation bandwidth
+- Noisy and imperfect behavioral signals
 - Trade-offs between accuracy, interpretability, and usability
 - The need to make decisions under uncertainty
 
 Across projects, you’ll find:
-- 🧠 Product-first framing before modeling
-- 📊 Funnels, lifecycle thinking, and LTV-oriented signals
-- 🤖 Interpretable models used for understanding, not just prediction
-- 🧪 Explicit assumptions, risks, and limitations
+
+- 🧠 Product-first framing before any modeling
+- 📊 Lifecycle, funnel, and monetization-oriented signals
+- 🤖 Interpretable models used for understanding and decision support
+- 🧪 Explicit assumptions, limitations, and risks
 - 🧩 Clear separation between insights and recommendations
+- 🧱 Artifacts designed to evolve into deployable systems
 
 ---
 
@@ -97,9 +104,10 @@ Current and upcoming case studies focus on:
 - **Churn & Retention Modeling**
 - **User Feedback & Sentiment Analysis**
 - **Experimentation & Causal Thinking**
+- **Lightweight ML-powered product services (APIs)**
 
-Each case follows a consistent structure:
-**problem → signals → insights → decisions**.
+Each case follows a consistent structure:  
+**problem → signals → insights → decisions → system**.
 
 ---
 
@@ -108,6 +116,7 @@ Each case follows a consistent structure:
 - Python (pandas, numpy, scikit-learn)
 - Jupyter Notebooks
 - Data visualization (matplotlib)
+- FastAPI (for model-backed services)
 - Git & GitHub
 - Markdown documentation
 
@@ -120,4 +129,4 @@ Each case follows a consistent structure:
 
 ---
 
-> This profile evolves in public as I build, test, and refine AI-powered product decisions.
+> This profile evolves in public as I build, test, and ship AI-powered product decision systems.
