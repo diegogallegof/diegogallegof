@@ -1,7 +1,6 @@
 # Diego Gallego  
 **AI Product Manager | Engineer by Training | Applied AI & Data Science for Subscriptions & Growth**
 
-![Profile views](https://komarev.com/ghpvc/?username=diegoGallegof&style=flat&color=grey)
 
 Hi 👋  
 I’m a product leader with an engineering background, focused on applying  
